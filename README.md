@@ -75,7 +75,7 @@ tokens:
 
 ```yaml
 tokens: |
-  {"https://github.com": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  {"https://github.com":https://stackoverflowteams.com/c/shadow-token "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
    "https://twitter.com": "yyyyyyyyyyyyyyyyyyyyyyy"}
 ```
 
